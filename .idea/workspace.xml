@@ -123,7 +123,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1524140689020</updated>
-      <workItem from="1524140690283" duration="3877000" />
+      <workItem from="1524140690283" duration="4142000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1524144786800</created>
@@ -139,11 +139,18 @@
       <option name="project" value="LOCAL" />
       <updated>1524145915062</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Procfile">
+      <created>1524146962672</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1524146962672</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3877000" />
+    <option name="totallyTimeSpent" value="4142000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
@@ -175,7 +182,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
     <MESSAGE value="gewijzigde poort" />
-    <option name="LAST_COMMIT_MESSAGE" value="gewijzigde poort" />
+    <MESSAGE value="Procfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="Procfile" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
